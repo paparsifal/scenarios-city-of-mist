@@ -1,5 +1,7 @@
 # La Galerie des Murmures
 
+![La Galerie des Murmures](images/galerie_des_murmures.jpg)
+
 ## Description
 Un bâtiment Art déco récemment rénové, la Galerie des Murmures se dresse sur trois étages, sa façade ornée de motifs géométriques et de sculptures de danseurs. Les grandes fenêtres teintées ne laissent entrevoir que des ombres mouvantes à l'intérieur.
 

@@ -1,5 +1,7 @@
 # Le Café Nocturne
 
+![Le Café Nocturne](images/cafe_nocturne.jpg)
+
 ## Description Générale
 Un café ouvert 24/7, niché dans une ruelle étroite du quartier artistique. L'établissement est connu pour accueillir les artistes, les noctambules et tous ceux qui cherchent un refuge dans la nuit de la Cité.
 

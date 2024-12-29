@@ -1,5 +1,7 @@
 # La Ruelle du Violon
 
+![La Ruelle du Violon](images/ruelle_du_violon.jpg)
+
 ## Description Générale
 Une étroite ruelle pavée entre la [Galerie des Murmures](galerie_des_murmures.md) et un vieil immeuble d'appartements. L'endroit où le violon de Thomas Chen a été retrouvé est maintenant un lieu de pèlerinage pour les artistes de rue.
 

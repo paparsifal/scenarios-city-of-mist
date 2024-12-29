@@ -1,5 +1,7 @@
 # La Place des Artistes
 
+![La Place des Artistes](images/place_des_artistes.jpg)
+
 ## Description Générale
 Une place pavée circulaire entourée de vieux bâtiments, point de rencontre traditionnel des artistes de rue de la Cité. L'endroit vibre d'énergie créative, mais depuis les récentes disparitions, une tension sous-jacente est palpable.
 

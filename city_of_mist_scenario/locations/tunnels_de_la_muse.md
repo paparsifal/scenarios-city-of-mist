@@ -1,5 +1,7 @@
 # Les Tunnels de la Muse
 
+![Les Tunnels de la Muse](images/tunnels_de_la_muse.webp)
+
 ## Description Générale
 Un réseau de tunnels secrets sous la [Galerie des Murmures](galerie_des_murmures.md), où [Madame Echo](../npcs/madame_echo.md) conserve sa véritable "collection". Ces passages labyrinthiques sont imprégnés de magie ancienne et résonnent de mélodies fantomatiques.
 
