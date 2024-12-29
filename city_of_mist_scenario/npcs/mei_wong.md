@@ -1,5 +1,7 @@
 # Mei Wong
 
+![Mei Wong](images/mei_wong.webp)
+
 ## Identité Mondaine
 - **Nom** : Mei Wong
 - **Occupation** : Photographe de rue indépendante

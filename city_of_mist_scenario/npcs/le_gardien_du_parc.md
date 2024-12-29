@@ -1,5 +1,7 @@
 # Le Gardien du Parc
 
+![Le Gardien du Parc](images/le_gardien_du_parc.webp)
+
 ## Identité Mondaine
 - **Nom** : Inconnu, se fait appeler "Le Gardien"
 - **Occupation** : Gardien de nuit de la [Place des Artistes](../locations/place_des_artistes.md)

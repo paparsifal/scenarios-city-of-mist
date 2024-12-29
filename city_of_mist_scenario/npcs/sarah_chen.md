@@ -1,5 +1,7 @@
 # Sarah Chen
 
+![Sarah Chen](images/sarah_chen.webp)
+
 ## Identité Mondaine
 - **Nom** : Sarah Chen
 - **Occupation** : Professeure de musique

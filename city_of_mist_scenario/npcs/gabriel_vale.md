@@ -1,5 +1,7 @@
 # Gabriel Vale
 
+![Gabriel Vale](images/gabriel_vale.webp)
+
 ## Identité Mondaine
 - **Nom** : Gabriel Vale
 - **Occupation** : Conservateur de la [Galerie des Murmures](../locations/galerie_des_murmures.md)

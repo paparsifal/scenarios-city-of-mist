@@ -1,5 +1,7 @@
 # Marcus le Jongleur
 
+![Marcus le Jongleur](images/marcus_le_jongleur.webp)
+
 ## Identité Mondaine
 - **Nom** : Marcus "Le Jongleur" Rodriguez
 - **Occupation** : Artiste de rue, jongleur

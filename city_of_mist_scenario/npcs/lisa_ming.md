@@ -1,5 +1,7 @@
 # Lisa Ming
 
+![Lisa Ming](images/lisa_ming.webp)
+
 ## Identité Mondaine
 - **Nom** : Lisa Ming
 - **Occupation** : Réceptionniste à la [Galerie des Murmures](../locations/galerie_des_murmures.md)

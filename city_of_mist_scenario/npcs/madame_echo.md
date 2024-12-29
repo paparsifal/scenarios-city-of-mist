@@ -1,5 +1,7 @@
 # Madame Echo
 
+![Madame Echo](images/madame_echo.webp)
+
 ## Identité Mondaine
 - **Nom** : Victoria Echo
 - **Occupation** : Propriétaire de la [Galerie des Murmures](../locations/galerie_des_murmures.md)

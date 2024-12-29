@@ -1,5 +1,7 @@
 # Professeur Martinez
 
+![Professeur Martinez](images/professeur_martinez.webp)
+
 ## Identité Mondaine
 - **Nom** : Dr. Elena Martinez
 - **Occupation** : Professeure d'Histoire de l'Art à l'Université de la Cité

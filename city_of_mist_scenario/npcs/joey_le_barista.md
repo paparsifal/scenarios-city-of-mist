@@ -1,5 +1,7 @@
 # Joey le Barista
 
+![Joey le Barista](images/joey_le_barista.webp)
+
 ## Identité Mondaine
 - **Nom** : Joseph "Joey" Martinez
 - **Occupation** : Barista au [Café Nocturne](../locations/cafe_nocturne.md)
